@@ -1,0 +1,28 @@
+Bear Habitat:
+be4; Olivia  ; birth date 2022-12-13; brown color; male; 500 pounds; from  Yellowstone, USA
+be8; Ava  ; birth date 2016-12-15; black color; female; 520 pounds; from  Banff National Park, Canada
+be12; Isabella  ; birth date 2022-12-06; grey color; male; 490 pounds; from  Great Smoky Mountains, USA
+be16; Amelia  ; birth date 2017-12-16; dark-brown color; female; 505 pounds; from  Denali National Park, USA
+be20; Evelyn  ; birth date 2021-12-05; light-brown color; male; 495 pounds; from  Yosemite National Park, USA
+
+Hyena Habitat:
+hy1; Leo  ; birth date 2020-03-14; tan color; female; 70 pounds; from  Detroit Park, Tunisia
+hy5; Noah  ; birth date 2018-09-18; spotted color; male; 75 pounds; from  Masai Mara, Kenya
+hy9; Ethan  ; birth date 2020-03-27; dark-spotted color; female; 68 pounds; from  Amboseli, Kenya
+hy13; James  ; birth date 2015-09-14; golden-brown color; male; 80 pounds; from  Okavango Delta, Botswana
+hy17; Henry  ; birth date 2014-03-28; light-brown color; female; 65 pounds; from  Tsavo National Park, Kenya
+
+Lion Habitat:
+li2; Mia  ; birth date 2021-06-16; golden color; male; 400 pounds; from  Serengeti, Tanzania
+li6; Emma  ; birth date 2023-03-17; tawny color; female; 380 pounds; from  Kruger National Park, South Africa
+li10; Sophia  ; birth date 2019-09-21; light-golden color; male; 420 pounds; from  Gir Forest, India
+li14; Charlotte  ; birth date 2018-03-28; sandy color; female; 390 pounds; from  Etosha National Park, Namibia
+li18; Harper  ; birth date 2016-09-15; dark-mane color; male; 430 pounds; from  Hwange National Park, Zimbabwe
+
+Tiger Habitat:
+ti3; Jack  ; birth date 2019-09-07; orange-black color; female; 320 pounds; from  Sundarbans, India
+ti7; Liam  ; birth date 2017-06-27; orange-white color; male; 310 pounds; from  Siberian Taiga, Russia
+ti11; Mason  ; birth date 2021-06-22; striped color; female; 330 pounds; from  Chitwan National Park, Nepal
+ti15; Benjamin  ; birth date 2020-06-22; deep-orange color; male; 315 pounds; from  Ranthambore, India
+ti19; Alexander  ; birth date 2019-06-12; black-striped color; female; 325 pounds; from  Borneo Rainforest, Malaysia
+

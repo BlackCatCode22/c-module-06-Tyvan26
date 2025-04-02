@@ -1,0 +1,20 @@
+4 female hyena spring tan 70 Detroit Park, Tunisia
+3 male lion summer golden 400 Serengeti, Tanzania
+5 female tiger fall orange-black 320 Sundarbans, India
+2 male bear winter brown 500 Yellowstone, USA
+6 male hyena fall spotted 75 Masai Mara, Kenya
+1 female lion spring tawny 380 Kruger National Park, South Africa
+7 male tiger summer orange-white 310 Siberian Taiga, Russia
+8 female bear winter black 520 Banff National Park, Canada
+4 female hyena spring dark-spotted 68 Amboseli, Kenya
+5 male lion fall light-golden 420 Gir Forest, India
+3 female tiger summer striped 330 Chitwan National Park, Nepal
+2 male bear winter grey 490 Great Smoky Mountains, USA
+9 male hyena fall golden-brown 80 Okavango Delta, Botswana
+6 female lion spring sandy 390 Etosha National Park, Namibia
+4 male tiger summer deep-orange 315 Ranthambore, India
+7 female bear winter dark-brown 505 Denali National Park, USA
+10 female hyena spring light-brown 65 Tsavo National Park, Kenya
+8 male lion fall dark-mane 430 Hwange National Park, Zimbabwe
+5 female tiger summer black-striped 325 Borneo Rainforest, Malaysia
+3 male bear winter light-brown 495 Yosemite National Park, USA
